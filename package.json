@@ -18,6 +18,11 @@
   },
   "homepage": "https://github.com/kruzabasi/authUser#readme",
   "dependencies": {
-    "dotenv": "^8.2.0"
+    "@hapi/joi": "^17.1.1",
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.21",
+    "nodemon": "^2.0.4"
   }
 }
