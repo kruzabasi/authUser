@@ -1,0 +1,23 @@
+{
+  "name": "authuser-master",
+  "version": "1.0.0",
+  "description": "simple user authentication using nodejs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kruzabasi/authUser.git"
+  },
+  "author": "Ukpono \"Kruzabasi\" Nnah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kruzabasi/authUser/issues"
+  },
+  "homepage": "https://github.com/kruzabasi/authUser#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0"
+  }
+}
